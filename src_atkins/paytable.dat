@@ -1,0 +1,50 @@
+# 1: unique ID 2:name 3: five 4: four 5: three 4: two in a row 5:1 in a row
+Atkins;5000;500;50;5;0;
+Steak;1000;200;40;3;0;
+Ham;500;150;30;2;0;
+BuffaloWings;300;100;25;2;0;
+Sausage;200;75;20;0;0;
+Eggs;200;75;20;0;0;
+Butter;100;50;15;0;0;
+Cheese;100;50;15;0;0;
+Bacon;50;25;10;0;0;
+Mayonnaise;50;25;10;0;0;
+Scale;100;25;5;0;0;
+# 1 line for each reel  starting left to right starting from reel 1 
+Scale; Mayonnaise; Ham; Sausage; Bacon; Eggs; Cheese; Mayonnaise; Sausage; Butter; BuffaloWings; Bacon; Eggs; Mayonnaise; Steak; BuffaloWings; Butter; Cheese; Eggs; Atkins; Bacon; Mayonnaise; Ham; Cheese; Eggs; Scale; Butter; Bacon; Sausage; BuffaloWings; Steak; Butter;
+Mayonnaise; BuffaloWings; Steak; Sausage; Cheese; Mayonnaise; Ham; Butter; Bacon; Steak; Sausage; Mayonnaise; Ham; Atkins; Butter; Eggs; Cheese; Bacon; Sausage; BuffaloWings; Scale; Mayonnaise; Butter; Cheese; Bacon; Eggs; BuffaloWings; Mayonnaise; Steak; Ham; Cheese; Bacon;
+Ham; Butter; Eggs; Scale; Cheese; Mayonnaise; Butter; Ham; Sausage; Bacon; Steak; BuffaloWings; Butter; Mayonnaise; Cheese; Sausage; Eggs; Bacon; Mayonnaise; BuffaloWings; Ham; Sausage; Bacon; Cheese; Eggs; Atkins; BuffaloWings; Bacon; Butter; Cheese; Mayonnaise; Steak;
+Ham; Cheese; Atkins; Scale; Butter; Bacon; Cheese; Sausage; Steak; Eggs; Bacon; Mayonnaise; Sausage; Cheese; Butter; Ham; Mayonnaise; Bacon; BuffaloWings; Sausage; Cheese; Eggs; Butter; BuffaloWings; Bacon; Mayonnaise; Eggs; Ham; Sausage; Steak; Mayonnaise; Bacon;
+Bacon; Scale; Steak; Ham; Cheese; Sausage; Butter; Bacon; BuffaloWings; Cheese; Sausage; Ham; Butter; Steak; Mayonnaise; Eggs; Sausage; Ham; Atkins; Butter; BuffaloWings; Mayonnaise; Eggs; Ham; Bacon; Butter; Steak; Mayonnaise; Sausage; Eggs; Cheese; BuffaloWings;
+# line configurations (0): top (1):middle (2):bottom the order is according to the online game (wizardofodds) configuration
+1;1;1;1;1;
+0;0;0;0;0;
+2;2;2;2;2;
+0;1;2;1;0;
+2;1;0;1;2;
+1;0;0;0;1;
+1;2;2;2;1;
+0;0;1;2;2;
+2;2;1;0;0;
+1;0;1;2;1;
+1;2;1;0;1;
+0;1;1;1;0;
+2;1;1;1;2;
+0;1;0;1;0;
+2;1;2;1;2;
+1;1;0;1;1;
+1;1;2;1;1;
+0;0;2;0;0;
+2;2;0;2;2;
+0;2;2;2;0;
+
+
+
+
+
+
+
+
+
+
+
